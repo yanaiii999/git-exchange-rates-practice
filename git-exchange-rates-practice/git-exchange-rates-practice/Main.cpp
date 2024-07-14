@@ -12,7 +12,7 @@ int main()
     setlocale(LC_ALL, "Russian");
     cout << "Лабораторная работа №4. GIT\n";
     cout << "Вариант №4. Курсы валют\n";
-    cout << "Автор: Ильющенко Яна\n\n";
+    cout << "Автор: Валентинович Даниил\n\n";
     rates* subscriptions[MAX_FILE_ROWS_COUNT];
     int size;
     try
